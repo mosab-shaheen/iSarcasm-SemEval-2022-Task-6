@@ -12,3 +12,7 @@ We included the models of final submissions in the subtask along with the corres
 
 All the datasets are processed with the same type of preprocessing.
 
+# Results 
+
+Check the main research article here [Plumeria at SemEval-2022 Task 6: Sarcasm Detection for English and Arabic Using Transformers and Data Augmentation](https://aclanthology.org/2022.semeval-1.130.pdf)
+
